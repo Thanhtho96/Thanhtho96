@@ -1,15 +1,4 @@
-<div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-	<img src="https://raw.githubusercontent.com/Thanhtho96/Thanhtho96/master/spinner.svg?sanitize=true" width="40" height="40">
-	<p>Loading</p>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
+![Metrics](https://metrics.lecoq.io/Thanhtho96)
 
 <!--
 **Thanhtho96/Thanhtho96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
